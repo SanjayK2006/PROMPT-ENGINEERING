@@ -113,7 +113,6 @@ Generate the complete report with both textual explanations and visual diagram d
 
 
 # Output
-prompt exp1.pdf 
-
+prompt exp1.pdf
 # Result
 A well-structured, professional Generative AI report PDF is created with clear explanations, examples, and diagrams.
